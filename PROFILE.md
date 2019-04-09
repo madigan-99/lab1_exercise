@@ -17,5 +17,5 @@ My favorite foods are as follows:
 My favorite quote is: 
 '''war is peace 
 freedom is slavery 
-ignorance is strength ''
+ignorance is strength '''
 and more information can be found [here](https://www.sparknotes.com/lit/1984/quotes/)
